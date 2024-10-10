@@ -1,2 +1,2 @@
-# Godday
+# GoFood
 A Food delivery app 
